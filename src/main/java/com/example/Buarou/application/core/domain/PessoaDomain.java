@@ -1,4 +1,4 @@
-package application.core.domain;
+package com.example.Buarou.application.core.domain;
 
 import java.util.Date;
 

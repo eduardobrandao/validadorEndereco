@@ -1,6 +1,5 @@
-package adapters.in.request;
+package com.example.Buarou.adapters.in.request;
 
-import application.core.domain.EnderecoDomain;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

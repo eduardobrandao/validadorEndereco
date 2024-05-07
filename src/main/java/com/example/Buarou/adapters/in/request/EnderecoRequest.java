@@ -1,4 +1,4 @@
-package adapters.in.request;
+package com.example.Buarou.adapters.in.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

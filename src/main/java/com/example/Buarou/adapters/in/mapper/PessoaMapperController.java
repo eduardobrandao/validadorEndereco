@@ -1,7 +1,7 @@
-package adapters.in.mapper;
+package com.example.Buarou.adapters.in.mapper;
 
-import adapters.in.request.PessoaRequest;
-import application.core.domain.PessoaDomain;
+import com.example.Buarou.adapters.in.request.PessoaRequest;
+import com.example.Buarou.application.core.domain.PessoaDomain;
 import org.mapstruct.Mapper;
 
 @Mapper(componentModel = "spring")

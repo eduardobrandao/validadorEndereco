@@ -1,8 +1,8 @@
-package adapters.out;
+package com.example.Buarou.adapters.out;
 
-import adapters.out.client.OutroServicoClient;
-import application.core.domain.PessoaDomain;
-import application.ports.OutputPorts.ValidadorEnderecoPessoaOutPutPort;
+import com.example.Buarou.adapters.out.client.OutroServicoClient;
+import com.example.Buarou.application.core.domain.PessoaDomain;
+import com.example.Buarou.application.ports.OutputPorts.ValidadorEnderecoPessoaOutPutPort;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
